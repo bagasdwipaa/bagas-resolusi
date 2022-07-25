@@ -1,2 +1,2 @@
 # bagas-resolusi
-repositori untuk menyimpan renana bagas kedepannya
+repositori untuk menyimpan rencana bagas kedepannya
