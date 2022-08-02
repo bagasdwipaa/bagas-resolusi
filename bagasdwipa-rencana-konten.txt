@@ -4,6 +4,7 @@ RENCANA KONTEN BAGASDWIPA
   * ES6
   * Framework Javascript
     - Vue
+    - react
 - Struktur Data Dasar
 - PHP Frameworks
   - Laravel
