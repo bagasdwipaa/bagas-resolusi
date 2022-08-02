@@ -5,7 +5,9 @@ RENCANA KONTEN BAGASDWIPA
   * Framework Javascript
     - Angular
     - React
+- Struktur Data Dasar
 - PHP Frameworks
   - Laravel
 - Interview
 - Vlogs
+- Pyhton
